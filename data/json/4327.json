@@ -1,0 +1,149 @@
+{
+  "type": "PrimaryTheme",
+  "number": 4327,
+  "title": "flint",
+  "comment": "",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Flint tools",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "06005002-06005003"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02004025"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "24017001"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Flinty rock",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "18028009"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "05032013-05032014"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Metaphorical use of flint",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "26003009"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23005028",
+                "23050007"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "38007012"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4306,
+    4354,
+    4508,
+    5583
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5530,
+  "title": "sifting",
+  "comment": "The process of separating different substances, especially grain and chaff, normally by passing them through sieves. It is used as a symbol of judgment in which the good are separated from the evil.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Sifting as an act of separation",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "07007004"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Sifting as a symbol of judgment",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23030028"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "30009009"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "42022031"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4426,
+    4456,
+    4550,
+    9210
+  ]
+}

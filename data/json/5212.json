@@ -1,0 +1,691 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5212,
+  "title": "arts and crafts",
+  "comment": "Artistic skills, usually practised by craftsmen and passed on from generation to generation, of which a wide variety are mentioned in Scripture.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Metalwork",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02039002-02039003"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02031001-02031005"
+              ],
+              "parallels": [
+                "02035030-02035033"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "09013019-09013021"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "11007013-11007014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23041007"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "24010009"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "44019023-44019041"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Stonework",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "11005017-11005018"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "11006036",
+                "11007009-11007012"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "12022003-12022006"
+              ],
+              "parallels": [
+                "14034008-14034011"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "13022002"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "14002013-14002014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26040042"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Building",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "46003010-46003015"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "14034011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "15003010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23009008-23009010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "30005011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "58003003-58003004"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Pottery",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23041025"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "10017027-10017029"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "13004021-13004023"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23029016",
+                "23045009",
+                "23064008"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "24018001-24018010",
+                "24019001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "45009019-45009021"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Carpentry",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23044013"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "01006014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "10005011"
+              ],
+              "parallels": [
+                "13014001"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "11006031-11006033"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "12012010-12012012"
+              ],
+              "parallels": [
+                "14024011-14024012"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "40013054-40013055"
+              ],
+              "parallels": [
+                "41006002-41006003"
+              ]
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Engraving",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02028009-02028012"
+              ],
+              "parallels": [
+                "02039006-02039007"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02028036-02028037"
+              ],
+              "parallels": [
+                "02039030-02039031"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "11007030-11007036"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "14002013-14002014"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Dyeing",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02036019"
+              ],
+              "parallels": [
+                "02026014"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02035022-02035023"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Weaving and embroidery",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02035034-02035035"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02028039-02028040"
+              ],
+              "parallels": [
+                "02039022-02039029"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "12023007"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "13004021"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23019009-23019010",
+                "23038012"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Tanning",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "44009043"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "44010005-44010006",
+                "44010032-44010033"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Making idols",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "03026001"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "12017014-12017016"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23040018-23040020",
+                "23041005-23041007",
+                "23044009-23044020"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4345,
+    5211,
+    5240,
+    5247,
+    5272,
+    5301,
+    5304,
+    5306,
+    5403,
+    5433,
+    5445,
+    8768
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7610,
+  "title": "Council of Jerusalem",
+  "comment": "",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "The Council of Jerusalem was possibly the first ``assembly'' of the Christian church, held c. A.D. 49",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Council met to consider whether circumcision was necessary for salvation",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44015001"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45004009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "48005002-48005003"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Paul and Barnabas came from Antioch to Jerusalem to meet with the apostles and elders",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44015002-44015012"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Council agreed not to make it difficult for Gentiles who turned to God",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "The Council was concerned to avoid forcing Gentiles to adopt Jewish customs (such as circumcision), and at the same time to require Gentiles to behave considerately towards their ``weaker brothers'' of Jewish birth, not all of whom could be expected to acquire immediately the emancipated outlook on food-laws and the like that Peter and Paul had.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44015019-44015021"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "James showed how the decision had confirmed an earlier prophecy",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44015015-44015018"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "30009011-30009012"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The written judgment was taken to the Gentile believers by Paul, Barnabas, Silas and Judas",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44015023-44015029",
+                    "44016004"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Council's judgment proved to be a great encouragement to the Gentile believers",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44015030-44015031",
+                    "44016005"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    5108,
+    5375,
+    7334,
+    7510,
+    7540,
+    7706,
+    7720,
+    7733,
+    8414
+  ]
+}

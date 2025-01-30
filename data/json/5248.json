@@ -1,0 +1,271 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5248,
+  "title": "cart",
+  "comment": "",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "General description of carts",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "04007003"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "made of wood",
+              "continuation": true,
+              "bcvreferences": [
+                "09006007",
+                "09006014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "pulled by ropes",
+              "continuation": true,
+              "bcvreferences": [
+                "23005018"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "equipped with heavy wheels",
+              "continuation": true,
+              "bcvreferences": [
+                "23028027-23028028"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Carts as a means of transport",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Carts used to transport people",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01046005"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01045019-01045021",
+                    "01045027"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23066020"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Carts used as military transport",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "26023024"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "26026010"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Carts used to transport grain",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "30002013"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "19065011"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Carts used to transport the tabernacle",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "The heavier items of the tabernacle and its furniture were carried on covered carts drawn by oxen.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "04007006-04007008"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "A new cart to transport the ark of the LORD",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "The Philistines send the ark back to Israel.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "09006008"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "09006010-09006011"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "The ark is started on its journey to Jerusalem.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "10006002-10006003"
+                  ],
+                  "parallels": [
+                    "13013007"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4406,
+    5252,
+    5621,
+    7306,
+    7459
+  ]
+}

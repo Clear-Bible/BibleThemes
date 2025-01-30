@@ -1,0 +1,549 @@
+{
+  "type": "SecondaryTheme",
+  "number": 5064,
+  "title": "spirit, emotional aspects of",
+  "comment": "A human being is made up of a variety of emotions and attitudes. Sometimes one trait is or becomes so dominant as to make it characteristic of the entire personality.",
+  "primaryref": null,
+  "children": [
+    {
+      "type": "CommentSubheading",
+      "title": "Examples of a bad spirit",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Pride",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "20016018"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Jealousy",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "04005014"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Fear",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "12019007"
+                  ],
+                  "parallels": [
+                    "23037007"
+                  ]
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Unfaithfulness",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "28004012",
+                    "28005004"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Despair",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "23061003"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Spiritual dullness",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45011008"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "05029004"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23029010"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Examples of a good spirit",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Humility",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "20029023"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "04012003"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23057015"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Submission",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "04014024"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "04014006-04014009"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Wisdom",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "05034009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "11003011-11003012"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "18032008"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "27004009"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Steadfastness",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "19051010",
+                    "19051012"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Strength",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42001017"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "39004005"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Zeal",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45012011"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "43002017"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Gentleness",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "46004021"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "60003004"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Trust",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "47004013"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "God can effect a change of spirit",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "26036026"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "26011019",
+                "26018031"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "37001014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "38012010"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "see": [],
+  "seealsos": [
+    3230,
+    5015,
+    5761,
+    5844,
+    5965,
+    6744,
+    8164,
+    8203,
+    8255
+  ]
+}

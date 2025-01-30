@@ -1,0 +1,436 @@
+{
+  "type": "PrimaryTheme",
+  "number": 9050,
+  "title": "tombs",
+  "comment": "Graves or burial places, often cut out of rock. People were usually buried in family tombs and kings were often buried in royal tombs.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheadingTitle",
+      "title": "Tombs cut out of rock",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23022015-23022016"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "12023016"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "14016014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "40027059-40027060"
+              ],
+              "parallels": [
+                "41015046",
+                "42023053"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Caves used as tombs",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "01050013"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "01023017-01023020",
+                "01025008-01025010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "43011038"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Tombs sealed with a stone",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "43011038"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40027060"
+              ],
+              "parallels": [
+                "41015046"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "40027064-40027066",
+                "40028002"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "41016003"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "42024002"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Burial in a family tomb",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "01023019",
+                "01025008-01025010",
+                "01047029-01047030",
+                "01049029-01049032"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "07008032",
+                "07016031"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "10002032",
+                "10017023",
+                "10019037",
+                "10021012-10021014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "11013022"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Royal tombs",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "14016014"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "14021020",
+                "14024025",
+                "14026023",
+                "14028027",
+                "14032033"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "16003016"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Tombs in gardens",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "12021018"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "12021026"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "43019041"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Contact with a tomb rendered a person ritually unclean",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "04019016"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "12023006"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Figurative use of tombs",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40023027-40023028"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "42011043-42011044"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    2530,
+    2560,
+    4218,
+    4257,
+    4354,
+    5241,
+    5320,
+    8767,
+    9020,
+    9030,
+    9040,
+    9540
+  ]
+}

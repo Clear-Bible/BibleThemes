@@ -1,0 +1,230 @@
+{
+  "type": "PrimaryTheme",
+  "number": 4516,
+  "title": "straw",
+  "comment": "",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Uses of straw",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "As animal bedding and fodder",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01024032"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01024022-01024025"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "07019016-07019019"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "11004027-11004028"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23011007",
+                    "23065025"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "In brickmaking",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "02005006-02005007"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "02005010-02005013",
+                    "02005015-02005018"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The lightness and fragility of straw",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "18021018"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "18041026-18041029"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23005024"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Straw is of little value",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23033011"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "23025010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "24023028"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "46003010-46003015"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4426,
+    5239
+  ]
+}

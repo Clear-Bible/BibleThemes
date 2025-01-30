@@ -1,0 +1,1485 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7446,
+  "title": "slavery",
+  "comment": "The state of being an unpaid servant, whether through forcible subjection or voluntary submission. Slavery was common in biblical times, and Scripture lays down strict guidelines as to how slaves are to be treated by their masters, stressing the new status that slaves have as a result of being believers in Jesus Christ. The image of slavery is also used to describe the state of sinful human beings.",
+  "refgroup": null,
+  "children": [
+    {
+      "type": "SecondaryTheme",
+      "number": 7447,
+      "title": "slavery, in OT",
+      "comment": "Slavery in the OT occurs when someone either voluntarily or forcibly becomes completely subject to another person's control.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Reasons for slavery",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "War",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05020010-05020011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01014021"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04031009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "12005002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "14028008"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Purchase",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025044-03025045"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01037023-01037028"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Debt",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "12004001"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02022002-02022003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "03025039",
+                        "03025047-03025048"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05015012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "16005001-16005005"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Birth",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02021004"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017012-01017013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "21002007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "24002014"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Conscription of foreigners as forced labour",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "10012029-10012031"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02001011-02001014"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "06009022-06009023",
+                        "06016010"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "07001028"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "11009020-11009021"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Rights of slaves",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Rights of protection against physical and sexual abuse",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025043"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02021007-02021011",
+                        "02021020-02021021",
+                        "02021026-02021027"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Rights to participate in religious feasts and festivals",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02023012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02020009-02020010"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05012011-05012012"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Rights to inherit property",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015003"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Rights of asylum",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05023015"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The release of slaves",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Release in the Year of Jubilee",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025054-03025055"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025039-03025041"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Release after six years of service",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02021002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02021003-02021006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05015012-05015018"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "The six-year principle was being abused in the time of Jeremiah.",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "24034008-24034020"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Release through redemption by a near relative",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025047-03025053"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The status of slaves",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Slaves as property",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025046"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02021032"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Fellow Israelites were not to be regarded as property.",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "03025039-03025042"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Slaves as trusted advisors",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "09009005-09009010"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        1315,
+        5246,
+        5266,
+        5289,
+        5475,
+        5605,
+        5672,
+        5674,
+        7222,
+        7388,
+        7482
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 7448,
+      "title": "slavery, in NT",
+      "comment": "The NT does not condone slavery but recognises that slavery exists, and that many slaves have become believers. The status of slaves in the church is transformed by the work of Jesus Christ. Slaves were accorded greater respect because they were seen to be spiritually equal with others.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Examples of slavery in the NT",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Paul and Silas deliver a demon-possessed slave girl",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44016016-44016021"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Paul returns the runaway slave Onesimus to his master.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "57001008-57001021"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The gospel transforms the status of slaves",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "46012013"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "48003026-48003028"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Instructions concerning slavery",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Instructions to Christian slaves",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "49006005-49006008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46007020-46007024"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51003022-51003024"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "54006001-54006002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "56002009-56002010"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60002018-60002021"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Instructions to Christian masters",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "49006009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "51004001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "57001008-57001017"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The immorality of trading in slaves",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "54001009-54001010"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        2327,
+        5308,
+        5404,
+        5520,
+        5520,
+        6754,
+        8342
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 7449,
+      "title": "slavery, spiritual",
+      "comment": "Because of sin humanity is in a state of slavery. On account of the atoning work of Jesus Christ, believers can break free from slavery to sin and enter into the glorious liberty of the children of God.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Humanity is enslaved",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "To sin",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "43008033-43008036"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45006012-45006018",
+                        "45007007-45007025"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "56003003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "61002019"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "To the law",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48005001"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48004001-48004007"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "To fear",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45008015"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "58002014-58002015"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jesus Christ as the example of the true slave",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "Washing feet was the responsibility of the slaves of the household.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "43013001-43013017"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40020025-40020028"
+                  ],
+                  "parallels": [
+                    "41010042-41010045"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "50002005-50002011"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Believers as slaves of God",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "They are God's servants",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45006022"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "40006024"
+                      ],
+                      "parallels": [
+                        "42016013"
+                      ]
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45001001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51003023-51003024"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59001001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60002016"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "61001001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "They are sons and heirs",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48004001-48004007"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45008012-45008017"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "They have friendship with Jesus Christ",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "43015015"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "59002021-59002023"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "They have true freedom",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "43008031-43008036"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48004021-48004031"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Believers as slaves of righteousness",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45006015-45006023"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Believers as slaves of others",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40020025-40020028"
+                  ],
+                  "parallels": [
+                    "41010042-41010045"
+                  ]
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "46009019"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "47004005"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "48005013"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The image of slavery in the teaching of Jesus Christ",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Slavery involves readiness for the Master's return",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40024045-40024051"
+                  ],
+                  "parallels": [
+                    "42012042-42012046"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Slavery involves faithfulness to the Master's purpose",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "40025014-40025020"
+                  ],
+                  "parallels": [
+                    "42019012-42019017"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Slavery involves diligence for the Master's good.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "42017007-42017010"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Creation is itself in slavery until Jesus Christ returns",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45008019-45008022"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        2363,
+        4005,
+        5004,
+        5703,
+        6020,
+        6614,
+        6658,
+        6720,
+        7939,
+        8154,
+        8453,
+        8754
+      ]
+    }
+  ],
+  "cschildren": [],
+  "themeset": [],
+  "seealsos": []
+}

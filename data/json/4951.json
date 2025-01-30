@@ -1,0 +1,864 @@
+{
+  "type": "PrimaryTheme",
+  "number": 4951,
+  "title": "month",
+  "comment": "A thirty-day period of the year measured from one new moon to the next. There were twelve months in the year, with a thirteenth inserted periodically to bring the lunar calendar into line with the solar year. Early month names may have been linked with the seasons. After the exile, Babylonian names were adopted.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Months marked by the new moon",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Special sacrifices marked the first day of each month.",
+              "continuation": false,
+              "bcvreferences": [
+                "04028011-04028014"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "19081003"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23066023"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26046006"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "No work was done on the first day of the month.",
+              "continuation": true,
+              "bcvreferences": [
+                "30008005"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Months as periods of 30 days",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The prescribed period of mourning was 30 days (a month).",
+              "continuation": false,
+              "bcvreferences": [
+                "05021013"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "04020029"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "05034008"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The first month: Abib/Nisan",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Abib, meaning ``young head of grain'' was the Canaanite name for Israel's first month. Modern equivalent: March-April.",
+              "continuation": false,
+              "bcvreferences": [
+                "02012002"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02040002"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "04009001"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Feasts in the month of Abib",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "Passover celebrated on 14th Abib.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "05016001"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "the Feast of Unleavened bread (15th-21st)",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "02013004",
+                    "02023015"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03023005-03023006"
+                  ],
+                  "parallels": [
+                    "04028016-04028017"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "The first sheaf of barley was brought to the priest on 16th Abib.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03023010-03023011"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "16002001"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "17003007"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The second month: Ziv",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Ziv was the pre-exilic name; the post-exilic name, Iyyar, does not appear in the Bible. Modern equivalent: April-May.",
+              "continuation": false,
+              "bcvreferences": [
+                "11006001"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "11006037"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "A late Passover might be held on 14th Ziv",
+              "continuation": true,
+              "bcvreferences": [
+                "04009011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Hezekiah's celebration of the Passover was in the second month.",
+              "continuation": true,
+              "bcvreferences": [
+                "14030013-14030015"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The third month: Sivan",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Modern equivalent: May-June.",
+              "continuation": false,
+              "bcvreferences": [
+                "17008009"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02019001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26031001"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Pentecost celebrated in the month of Sivan",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "on 6th Sivan",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03023015-03023016"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The fourth month: Tammuz",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "modern equivalent: June-July",
+              "continuation": false,
+              "bcvreferences": [
+                "26001001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Tammuz was a fertility goddess; her annual death was mourned in the month named after her.",
+              "continuation": true,
+              "bcvreferences": [
+                "26008014"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The fifth month",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The name of the fifth month, Ab, does not appear in the Bible. Modern equivalent: July-August",
+              "continuation": false,
+              "bcvreferences": [
+                "04033038"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "12025008"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The sixth month: Elul",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Modern equivalent: August-September.",
+              "continuation": false,
+              "bcvreferences": [
+                "16006015"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "26008001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "37001001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "42001026"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The seventh month: Ethanim",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Ethanim is the pre-exilic name; its Babylonian equivalent, Tishri, does not appear in the Bible. Modern equivalent: September-October.",
+              "continuation": false,
+              "bcvreferences": [
+                "11008002"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Feasts and sacred days in the month of Ethanim",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "The Feast of Trumpets (1st). This is celebrated today as the Jewish New Year (Rosh Hashanah)",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03023023-03023024"
+                  ],
+                  "parallels": [
+                    "04029001"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "the Day of Atonement (10th)",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03023027"
+                  ],
+                  "parallels": [
+                    "04029007"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "the Feast of Tabernacles (15th-21st)",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03023034"
+                  ],
+                  "parallels": [
+                    "04029012"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Solemn Assembly (22nd)",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03023036"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The eighth month: Bul",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Bul's post-exilic equivalent, Marcheshvan, is not mentioned in the Bible. Modern equivalent: October-November.",
+              "continuation": false,
+              "bcvreferences": [
+                "11006038"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Jereboam offset Israel's religious calendar by one month. This is the alternative Feast of Tabernacles (15th)",
+              "continuation": false,
+              "bcvreferences": [
+                "11012032-11012033"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "38001001"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The ninth month: Kislev",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Modern equivalent: November-December.",
+              "continuation": false,
+              "bcvreferences": [
+                "38007001"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "16001001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "37002018"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Hanukkah celebrated in the month of Kislev",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "the Feast of Dedication of the Temple (25th)",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "43010022"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The tenth month: Tebeth",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "modern equivalent: December-January",
+              "continuation": false,
+              "bcvreferences": [
+                "17002016"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "24039001"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The eleventh month: Shebat",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "modern equivalent: January-February",
+              "continuation": false,
+              "bcvreferences": [
+                "05001003"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "38001007"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The twelfth month: Adar",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Modern equivalent: February-March.",
+              "continuation": false,
+              "bcvreferences": [
+                "17008012"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "17003013",
+                "17009001"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Purim celebrated in the month of Adar",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "the Feast of Purim (14th-15th)",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "17009020-17009022"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4251,
+    4442,
+    4464,
+    4970,
+    4978,
+    7308,
+    7354,
+    7398,
+    7400,
+    7406,
+    7408,
+    7418
+  ]
+}

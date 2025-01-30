@@ -1,0 +1,2275 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5075,
+  "title": "Abraham",
+  "comment": "The OT patriarch born in Ur and called by God to live in Canaan. God promised to make his descendants into a great nation, a promise fulfilled initially in Israel, and subsequently in the Christian church. His trust in God is seen as exemplary by NT writers.",
+  "refgroup": null,
+  "children": [
+    {
+      "type": "SecondaryTheme",
+      "number": 5076,
+      "title": "Abraham, life of",
+      "comment": "God called Abraham to live as a nomad in Canaan and promised the land to his descendants, naming him ``father of many'', although he had no heir until his old age.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham's ancestors, marriage and descendants",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The line of descent from Shem to Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "13001024-13001027"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham's marriage to Sarah",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01011029-01011030"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham's descendants",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "13001028-13001034"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham was called to live in Canaan",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "His migration from Ur to Canaan",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01011031-01012005"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "06024002-06024003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44007002-44007004"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58011008-58011009"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "His nomadic way of life in Canaan",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "58011009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012006-01012010",
+                        "01013001-01013004"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God gives Abraham his new name",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "The giving of a new name signifies a new relationship to God. ``Abram'' has the sense of ``revered father'', whereas ``Abraham'' means ``father of many people''.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017005"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017015"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham buys a burial site for Sarah",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "This is his only acquisition of land in Canaan.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01023003-01023004"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01023017-01023020",
+                        "01049029-01049032"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham's dealings with his nephew, Lot",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Abraham is accompanied to Canaan by Lot",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01012004-01012005"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Abraham and Lot separate",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "01013005-01013012"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Abraham rescues Lot from five local kings.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "01014008-01014016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01018020-01018033",
+                    "01019029"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Significant encounters in Abraham's life",
+          "precomment": "With Melchizedek:",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01014018-01014020"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "58007001-58007010"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "N",
+                  "comment": "with three angels",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01018001-01018022"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "God's covenant with Abraham",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God makes a covenant with Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015001-01015021"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "44007005-44007007"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God gives Abram the name Abraham, as a sign of the covenant",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017001-01017008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God gives Abraham the gift of circumcision as a sign of the covenant",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017009-01017027"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "44007008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45004011"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham's family",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham and Sarah were childless",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01011030"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015002-01015003",
+                        "01017017",
+                        "01018011-01018013"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham's pretence that Sarah is his sister",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012010-01012020",
+                        "01020001-01020018"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The birth of Ishmael",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01016001-01016004",
+                        "01016015-01016016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The birth of Isaac",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01021001-01021007"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham dismisses Hagar and Ishmael",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01021008-01021014"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God tests Abraham over Isaac",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01022001-01022019"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "58011017-58011019"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59002021"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham's wife Sarah dies",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01023001-01023002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham makes arrangements for a wife for Isaac",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01024001-01024009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham marries Keturah and has children by her",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01025001-01025002"
+                      ],
+                      "parallels": [
+                        "13001032"
+                      ]
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The death of Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01025007-01025011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The time span of Abraham's life",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Abraham leaves Haran at the age of 75.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01012004"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01016003",
+                    "01016016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "N",
+                  "comment": "Abraham renamed and circumcised at the age of 99",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01017001"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Isaac born when Abraham is 100",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "01021005"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Sarah dies when Abraham is 137. Ge 17:17 indicates that Sarah was ten years younger than Abraham",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "01023001"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Abraham dies at the age of 175.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "01025007"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        1335,
+        1348,
+        4207,
+        4275,
+        5094,
+        5100,
+        5225,
+        5467,
+        5590,
+        5672,
+        6620,
+        8832
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 5077,
+      "title": "Abraham, character of",
+      "comment": "Despite some shortcomings as a husband and father, his obedience, faith, hospitality and effective intercession were exemplary. Such qualities led to his being called ``friend of God''.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham, the friend of God",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was blessed by God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01014018-01014019"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01021022",
+                        "01024001",
+                        "01024035"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He worshipped God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01021033"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012008",
+                        "01013004",
+                        "01013018"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He had faith in God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015006"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45004018-45004022"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Abraham's faith is seen in the length of time (25 years) that he waited for the realisation of the promise",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58006015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58011008-58011012",
+                        "58011017-58011019"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was obedient",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01022001-01022019"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012004",
+                        "01026005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59002020-59002022"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was a prophet and intercessor",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01020007"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "As a prophet, God reveals his will to Abraham; as an intercessor, Abraham brings the revelation back to God and pleads for him to change his mind.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01018016-01018033"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was called the friend of God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "59002023"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "14020007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "23041008"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham's weaknesses as head of his household",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was held responsible by God for his family",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "As the following references show, Abraham did not discharge this responsibility well.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01018019"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He exploited his wife in a cowardly way",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012010-01012020",
+                        "01020001-01020018"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He fathered Ishmael as a result of wavering faith",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01016001-01016004"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He allowed Sarah to mistreat Hagar",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01016004-01016006",
+                        "01021009-01021014"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Abraham's strengths as a member of society",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was well-respected outside his household",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01021022",
+                        "01023006"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He sought to resolve disputes amicably",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01013005-01013012",
+                        "01021025-01021031"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "His wealth was a source of prestige",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01024035"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01013002",
+                        "01024001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was honoured for his military prowess",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01014013-01014021"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He was concerned to maintain his independence from the Canaanites",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01014022-01014024"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01023007-01023016",
+                        "01024001-01024004"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "He showed hospitality to strangers",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01018001-01018008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        5714,
+        7772,
+        8122,
+        8445,
+        8453,
+        8602
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 5078,
+      "title": "Abraham, significance of",
+      "comment": "Whereas Jews see Abraham as the father of their nation on account of God's covenant with him, Christians see Abraham as the father of all who believe in Jesus Christ.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "The significance of Abraham for nations other than Israel",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham was the father of many nations",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017003-01017006"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Muslim Arabs trace their ancestry through Ishmael to Abraham.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017020",
+                        "01025001-01025004",
+                        "01025012-01025018"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham was to be a means of blessing to many nations",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012003"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01018018",
+                        "01022017-01022018"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44003025"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The significance of Abraham for the people of Israel",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Israel traces its origins back to God's call of Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012001-01012002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "06024002-06024003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44007002-44007003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58011008-58011010"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God promises the land of Canaan to Abraham's descendants",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "16009007-16009008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015001-01015021",
+                        "01017001-01017008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "02006008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05009005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44007004-44007005"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God is subsequently known in Israel as the God of Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "11018036"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01024026-01024027",
+                        "01026024",
+                        "01031053"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "19047009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44007032"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "02003006"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham is seen as the father of the Jewish nation",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "43008039"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "19105005-19105006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "23041008",
+                        "23051001-23051002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "42001054-42001055"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "43008033"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44013026"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45011001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God deals with Israel on the basis of his covenant with Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "13016014-13016018"
+                      ],
+                      "parallels": [
+                        "19105007-19105011"
+                      ]
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02002023-02002025"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "12013022-12013023"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "19105042-19105045"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "42001068-42001075"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Circumcision was the sign of participation in God's covenant with Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01017009-01017014"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03012003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "43007022"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44015001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The significance of Abraham for Christians",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham was an ancestor of Jesus Christ",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "40001001"
+                      ],
+                      "parallels": [
+                        "42003034"
+                      ]
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Jesus Christ attacks Jewish confidence in mere physical descent from Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "40003009-40003010"
+                      ],
+                      "parallels": [
+                        "42003008-42003009"
+                      ]
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "43008033-43008041"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Jesus Christ makes a point of identifying outcasts as children of Abraham",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "42019007-42019009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "42013010-42013016"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God's promise to Abraham is not inherited by those who obey the law",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48003015-48003018"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45004013-45004016"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "48004021-48004031"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God's promise to Abraham is fulfilled in Jesus Christ, who is Abraham's seed",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48003016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01012007",
+                        "01013015",
+                        "01024007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "48003019",
+                        "48003029"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham is the father of those who are justified by faith",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48003006-48003009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01015006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45004001-45004025"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Abraham's obedience to God shows that faith must lead to good works",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "59002020-59002024"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Fellowship with Abraham is a symbol of salvation",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40008011-40008012"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42013028-42013029",
+                    "42016019-42016026"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        1035,
+        1245,
+        5375,
+        6676,
+        7135,
+        7140,
+        7248,
+        7258,
+        7334,
+        7505,
+        7510,
+        8020
+      ]
+    }
+  ],
+  "cschildren": [],
+  "themeset": [],
+  "seealsos": []
+}

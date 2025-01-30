@@ -1,0 +1,1418 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7239,
+  "title": "Jerusalem",
+  "comment": "The city in southern Palestine, situated in the Judean hills, around 20 miles west of the Dead Sea. Established as the Israelite capital by David, it remained the capital of Judah from the reign of Rehoboam until its destruction by the Romans in A.D. 70.",
+  "refgroup": null,
+  "children": [
+    {
+      "type": "SecondaryTheme",
+      "number": 7240,
+      "title": "Jerusalem, history of",
+      "comment": "Jerusalem was originally a Jebusite city, occupied by Israel at the time of David. At this stage, it became the capital city of Israel. Following the disintegration of the united kingdom, the city became the capital of the southern kindom of Judah.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Pre-Israelite Jerusalem",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Inhabited by Jebusites",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "07019009-07019012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01010015-01010016",
+                        "01015018-01015021"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "02003007-02003008",
+                        "02023023",
+                        "02034011"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04013029"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05007001-05007002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "06003010",
+                        "06009001-06009002",
+                        "06010001-06010007",
+                        "06015007-06015008",
+                        "06018028"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Israelites unable to occupy Jerusalem",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "06015063"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Although the men of Judah defeated the Jebusites in this battle, their victory was not sufficient to conquer them nor to gain permanent control over the city",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "07001004-07001008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "07001021"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Jerusalem conquered by David",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "13011004-13011009"
+                      ],
+                      "parallels": [
+                        "10005006-10005010"
+                      ]
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem as the site of the ark",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "10006012-10006019"
+                  ],
+                  "parallels": [
+                    "13015025-13016003"
+                  ]
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem capital city of David and Solomon",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "10005004-10005005"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "10009013",
+                    "10011001",
+                    "10012029-10012031"
+                  ],
+                  "parallels": [
+                    "13020001-13020003"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "10014023-10014024",
+                    "10015013-10015014"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "11002010-11002012",
+                    "11002036-11002045",
+                    "11003001",
+                    "11008001",
+                    "11010001-11010005",
+                    "11010026-11010027",
+                    "11011041-11011043"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem capital of the southern kingdom",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "11014021"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "11012016-11012019"
+                  ],
+                  "parallels": [
+                    "14010016-14010019"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "11012025-11012027",
+                    "11015009-11015010",
+                    "11022042"
+                  ],
+                  "parallels": [
+                    "14020031"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12008016-12008017"
+                  ],
+                  "parallels": [
+                    "14021005"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12012001"
+                  ],
+                  "parallels": [
+                    "14024001"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12015001-12015002"
+                  ],
+                  "parallels": [
+                    "14026003"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12018001-12018002"
+                  ],
+                  "parallels": [
+                    "14029001"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12018013-12018035"
+                  ],
+                  "parallels": [
+                    "14032009-14032019",
+                    "23036001-23036022"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12021001"
+                  ],
+                  "parallels": [
+                    "14033001"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12023031-12023033"
+                  ],
+                  "parallels": [
+                    "14036002-14036003"
+                  ]
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem conquered by the Babylonians",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "12024018-12025012"
+                  ],
+                  "parallels": [
+                    "14036011-14036020",
+                    "24039001-24039010",
+                    "24052001-24052016"
+                  ]
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The rebuilding of Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "14036023"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "15001001-15001004"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "16002001-16006019"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem capital of Persian province of Judah",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "16001001-16001003"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "15003001",
+                    "15004004-15004006",
+                    "15010007"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "16013006-16013007",
+                    "16013015-16013016"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem in NT times",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40002001-40002003"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40003001-40003006"
+                  ],
+                  "parallels": [
+                    "41001003-41001005"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "40004025",
+                    "40015001"
+                  ],
+                  "parallels": [
+                    "41007001"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "42002022",
+                    "42002041",
+                    "42004009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "43011055"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "44009001-44009002",
+                    "44025001-44025003"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Prophetic warning of the destruction of Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42021020-42021024"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42023026-42023031"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        1351,
+        5085,
+        5256,
+        5437,
+        5529,
+        6222,
+        7135,
+        7216,
+        7217,
+        7236,
+        7245,
+        7610
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 7241,
+      "title": "Jerusalem, significance of",
+      "comment": "Chosen by God as the location for his sanctuary, Jerusalem was his symbolic dwelling and became the only acceptable place for sacrificial worship. It retained its symbolic significance in NT times when it came to represent the hope of restoration and renewal for the people of God.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem chosen by God",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "11011032"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "11008044-11008051"
+                  ],
+                  "parallels": [
+                    "14006034-14006039"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "11011036",
+                    "11014021"
+                  ],
+                  "parallels": [
+                    "14012013"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12023027"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "16001008-16001009"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The ark of the covenant brought to Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "13015001-13015003"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "10006001-10006019"
+                  ],
+                  "parallels": [
+                    "13015025-13016003"
+                  ]
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The temple located in Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "14003001"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "13006031-13006032"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "14020027-14020028",
+                    "14033007",
+                    "14036014",
+                    "14036022-14036023"
+                  ],
+                  "parallels": [
+                    "15001001-15001003"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "19068028-19068029"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "41011011",
+                    "41011015-41011016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "42002041-42002051",
+                    "42004009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "44022013-44022018"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem the only acceptable place for sacrificial worship",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "05012001-05012007"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "05012020-05012028"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "11012026-11013003",
+                    "11014022-11014024",
+                    "11022042-11022043"
+                  ],
+                  "parallels": [
+                    "14020031-14020033"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12012001-12012003",
+                    "12016001-12016004"
+                  ],
+                  "parallels": [
+                    "14028001-14028004"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "12023001-12023020"
+                  ],
+                  "parallels": [
+                    "14034029-14034032"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "14030001-14031001"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23066020"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "28010008"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "43004020-43004021"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem referred to as God's dwelling-place",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "19135021"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "23024023",
+                    "23031009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "24003017"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Personification of Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "23052001-23052002"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "19147012"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23003008",
+                    "23040002",
+                    "23041027",
+                    "23052009",
+                    "23062006-23062007"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "24002001-24002002",
+                    "24004014",
+                    "24006008",
+                    "24013009",
+                    "24013026-24013027",
+                    "24015005"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "25001017",
+                    "25002013-25002015"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "26005008",
+                    "26016001-26016063",
+                    "26023001-26023049"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "36003014-36003017"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "38009009-38009010"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "40023037-40023039"
+                  ],
+                  "parallels": [
+                    "42013034-42013035"
+                  ]
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem the place of Jesus Christ's triumphal entry",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42019028-42019038"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem the place of Jesus Christ's death and resurrection",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [],
+              "secondaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42023026-42023049",
+                    "42024001-42024012",
+                    "42024013-42024033"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The outpouring of the Holy Spirit in Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44001004-44001009"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44002001-44002021"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jerusalem the administrative centre of the church",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44008001"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44008014",
+                    "44008025",
+                    "44011001-44011022",
+                    "44011027",
+                    "44012025",
+                    "44013013",
+                    "44015001-44015029",
+                    "44016004"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "46016001-46016003"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "48001015-48001019",
+                    "48002001-48002010"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The new Jerusalem",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "66021001-66021005"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "26048030-26048035"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "48004025-48004026"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "58012018-58012024"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "66003011-66003013",
+                    "66021009-66021027"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        2505,
+        2530,
+        2560,
+        2590,
+        3242,
+        7020,
+        7269,
+        7306,
+        7374,
+        7466,
+        8704,
+        9165
+      ]
+    }
+  ],
+  "cschildren": [],
+  "themeset": [],
+  "seealsos": []
+}

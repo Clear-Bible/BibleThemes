@@ -1,0 +1,1371 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5690,
+  "title": "friends",
+  "comment": "Those to whom one is close. Scripture stresses that friendship is often but not always a positive thing: where good friends can be invaluable in the life of faith, bad friends can be obstacles to the faith of believers, or even lead them astray totally.",
+  "refgroup": null,
+  "children": [
+    {
+      "type": "SecondaryTheme",
+      "number": 5691,
+      "title": "friends, good",
+      "comment": "Those whose commitment from the heart is shown in practical, often sacrificial, care, love and service. They are a source of encouragement, sympathy, comfort and support in time of need. Such relationships are to be cultivated, especially among believers.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Examples of good friends",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "David and Jonathan",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "09018001-09018003"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "09020017",
+                        "09020042"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "10001026"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Job's friends",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "18002011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Ruth and Naomi",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "08001016-08001017"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Paul's friends in ministry",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45016003-45016005"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Titus",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "47002012-47002013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Epaphroditus",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "50002025"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Tychicus",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51004007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Luke",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51004014"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Timothy",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "55001002-55001004"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Philemon",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "57001001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Other examples",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "David and Abiathar",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "09022023"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "David and Nahash",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "10010002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "David and Ittai",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "10015019-10015021"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "David and Hushai",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "10015032-10015037"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "David and Hiram",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "11005001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Elijah and Elisha",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "12002002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Jehonadab and Jehu",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "12010015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "the friends who brought the paralysed man to Jesus Christ",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "41002003-41002004"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The benefits brought by good friends",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Comfort and sympathy",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "18002011-18002013"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "20017017"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Support and encouragement",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "09023016-09023017"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "20018024"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "21004009-21004010"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "20027010"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "21004011-21004012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "30003003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "40027055-40027056",
+                        "40028001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45001011-45001012"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Sacrificial service",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "43015013"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45005007"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Shared joy and sorrow",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "42015005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45012015"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Loving rebuke",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "20027006",
+                        "20027009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "49004015"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Encouragement in good works",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45014013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58010024"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Challenge",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "20027017"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Good friendship among believers",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Unity in the love and fear of the LORD",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "19119063"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "39003016"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "50004001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Worshipping together",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "19055013-19055014",
+                        "19133001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44002042-44002043",
+                        "44002046-44002047"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Sharing possessions",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "44002044-44002045",
+                        "44004032-44004035",
+                        "44011029"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Serving together",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48002008-48002009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "50001003-50001005"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Praying for one another",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "18042010"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "53001011-53001012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59005016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Living peaceably",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45012018"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "50004002-50004003"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Covering sins",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "A friend does not stir up trouble by spreading details of wrongs suffered, but rather seeks reconciliation",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "20010012",
+                        "20016028",
+                        "20017009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "46013006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60004008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Restoring from sin",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48006001-48006002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59005019-59005020"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Jesus Christ is the friend of sinners",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40011019"
+                  ],
+                  "parallels": [
+                    "42007034"
+                  ]
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        5086,
+        5108,
+        5874,
+        5895,
+        8122,
+        8252,
+        8287,
+        8292,
+        8304,
+        8414,
+        8445,
+        8475
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 5692,
+      "title": "friends, bad",
+      "comment": "Those who are close or who exercise influence, who prove to be unreliable or deceptive or who lead astray. Scripture provides numerous instructive examples of the negative effects of bad friends upon believers.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Friends who lead astray",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "From worship",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05013006-05013008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05023006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "11011002"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "From good character",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46015033"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "20012026",
+                        "20022024-20022025"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "From friendship with God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "59004004"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "23052011"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "24009004-24009005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "33007005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "47006014-47006018",
+                        "47007001"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Friends who are unreliable",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "In their commitment",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "18006014-18006017"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "In their trustworthiness",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "19041009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "19038011",
+                        "19055020-19055021"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "31001007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "40026014-40026015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Jesus Christ is speaking about his betrayal by Judas.",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "43013018"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "In their support",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "55004016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "55004010"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Examples of bad friends",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Those who lead astray",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01003012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "11012008-11012011"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "17005014"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Those who are inconstant",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "Presumably these friends are not merely the ones who attempted to comfort him.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "18019019"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "40026031",
+                        "40026033-40026034"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "55004010",
+                        "55004016"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        5798,
+        5835,
+        5863,
+        5868,
+        5973,
+        6145,
+        8729,
+        8755,
+        8759,
+        8767,
+        8773,
+        8841
+      ]
+    }
+  ],
+  "cschildren": [],
+  "themeset": [],
+  "seealsos": []
+}

@@ -1,0 +1,4000 @@
+{
+  "type": "PrimaryTheme",
+  "number": 8266,
+  "title": "holiness",
+  "comment": "The quality of God that sets him utterly apart from his world, especially in terms of his purity and sanctity. The holiness of God is also manifested in the persons and work of Jesus Christ and the Holy Spirit. Believers are called upon to become like God in his holiness.",
+  "refgroup": null,
+  "children": [
+    {
+      "type": "SecondaryTheme",
+      "number": 8267,
+      "title": "holiness, of God",
+      "comment": "",
+      "primaryref": null,
+      "children": [],
+      "see": [
+        1065
+      ],
+      "seealsos": []
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 8268,
+      "title": "holiness, of Jesus Christ",
+      "comment": "",
+      "primaryref": null,
+      "children": [],
+      "see": [
+        2030
+      ],
+      "seealsos": []
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 8269,
+      "title": "holiness, as separation from the worldly",
+      "comment": "God's people are called to holiness, which involves being distinct from other people. In the OT, this is seen in the command to separate from other nations and from everything that can compromise commitment to the LORD. In the NT believers are called to distance themselves from the ways and values of the world, which can be dishonouring to God and destructive to obedience to him.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Israel is to be set apart from other nations",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03020023-03020026"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "02033015-02033016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03015031",
+                    "03018029-03018030"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "05007001-05007006",
+                    "05023009-05023014"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "15009001-15009002",
+                    "15009010-15009012"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23052011"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Common things are designated clean or unclean by ritual law",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Clean and unclean animals",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03011046-03011047"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03011001-03011023"
+                      ],
+                      "parallels": [
+                        "05014003-05014020"
+                      ]
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "41007014-41007019"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44010014"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Infectious skin diseases",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03013002-03013003",
+                        "03014002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Mildew",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03013047-03013049",
+                        "03014033-03014036"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Bodily discharges",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03012002",
+                        "03015002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Corpses",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03005002-03005003",
+                        "03011031-03011040",
+                        "03021001",
+                        "03021011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "What is holy must be kept separate",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Israelites must distinguish between the holy and the common",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03010010-03010011"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "26044023"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Contact with the profane desecrates the holy",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "44021028"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "24051051"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Unclean people and things must be removed",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "04005001-04005003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "15010010-15010011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03007022-03007027",
+                        "03013045-03013046",
+                        "03019005-03019008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04019013",
+                        "04019020"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05023010-05023014"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "14026021"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Unclean people are not to approach what is sacred",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03007020-03007021",
+                        "03022003-03022006"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The holy must be treated with respect",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Unintentional defilement of the holy carries a penalty",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03005014-03005016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Warnings against contempt for the holy",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03022001-03022002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02019010-02019013",
+                        "02028042-02028043",
+                        "02030018-02030021",
+                        "02031014-02031015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04004015",
+                        "04004017-04004020"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58010028-58010029"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Examples of contempt for the holy",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03010001-03010002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04016001-04016007",
+                        "04016018-04016035"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "09006019-09006020"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "10006006-10006007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "26022026",
+                        "26022031"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44005001-44005010"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Christians are called to be separate from the ways of the world",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "43015019"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "59004004"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "60002009-60002011"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "43017014-43017016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "47006014-47007001"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "55002019"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "59001027"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        4025,
+        5763,
+        5811,
+        7340,
+        7342,
+        7424,
+        7426,
+        8207,
+        8341,
+        8848
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 8270,
+      "title": "holiness, as set apart for God",
+      "comment": "Believers are holy, in that they are called to be set apart from the world as God's own people. Likewise certain days and articles are holy because they are set apart for God alone.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Believers are called to be a holy people, set apart for God",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The nation of Israel",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05007006"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02019005-02019006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "03020026"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05026018-05026019"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The priests",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "13023013"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03021005-03021008"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Nazirites",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "04006001-04006008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The apostles and prophets",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "42001070"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44003021"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "49003005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "61003002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Christians",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "49001004"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60001015-60001016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46001002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51003012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "55001009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60002009"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Consecration sets apart for holiness",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God's people are consecrated",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03020007-03020008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02019010-02019011",
+                        "02019014-02019015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "03011044-03011045"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "06003005",
+                        "06007013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "09016005"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Priests are consecrated for divine service",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02030030"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02040012-02040015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "09007001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "13015014"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "14023006",
+                        "14029005",
+                        "14035003"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Articles are consecrated for divine use",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02040009-02040011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029036-02029037",
+                        "02030025-02030029"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Days and occasions set apart for God",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Sabbath",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03023001-03023003"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "01002003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "02016023-02016025",
+                        "02020011"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Passover",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03023004-03023008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04028016",
+                        "04028025"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Feast of Weeks",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03023015-03023016",
+                        "03023021"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04028026"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Feast of Trumpets",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03023023-03023025"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04029001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "16008002",
+                        "16008009-16008011"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Day of Atonement",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03023026-03023028",
+                        "03023032"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04029007"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Feast of Tabernacles",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03023033-03023036"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04029012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The sabbath year",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025001-03025005"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The Year of Jubilee",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03025008-03025012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Places identified with the presence of God are made holy",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holy ground",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02003005"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "06005015"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holy mountains",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02019018-02019023"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "61001018"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The tabernacle",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029042-02029044",
+                        "02040009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The temple",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "11009003"
+                      ],
+                      "parallels": [
+                        "14007016"
+                      ]
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "11008010-11008013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "26042014",
+                        "26042020"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "40024015"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44006013",
+                        "44021028"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Jerusalem and the holy land",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "29003017"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "38002012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "40004005",
+                        "40027053"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Things associated with worship are holy",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Bread",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029032-02029033"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "09021003-09021006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "40012003-40012004"
+                      ],
+                      "parallels": [
+                        "41002025-41002026",
+                        "42006003-42006004"
+                      ]
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Perfume",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02030034-02030038"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Ritual offerings",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03006024-03006029"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03006017",
+                        "03007001",
+                        "03007006",
+                        "03010012-03010013",
+                        "03010016-03010018"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Offerings dedicated with a vow",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03027009",
+                        "03027014",
+                        "03027020-03027023",
+                        "03027028"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Tithes",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03027030-03027033"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "The firstborn",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02013002",
+                        "02013011-02013012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "42002022-42002023"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        4269,
+        5155,
+        7140,
+        7396,
+        7412,
+        7428,
+        7458,
+        7525,
+        7745,
+        7766,
+        8218,
+        8324
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 8271,
+      "title": "holiness, purpose of",
+      "comment": "God in his holiness desires a holy people amongst whom he can dwell, and who can effectively worship, witness to and serve him as they prepare for a future with God and to be like God.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "The goal of holiness is to be like God",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03019002"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "40005048"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45008029"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "58012010"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "60001015-60001016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "62003002-62003003"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "God dwells with holy people",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God dwelt with the people of Israel",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05023014"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029042-02029046"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04005001-04005003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "11009003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "26037026-26037028"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "38002010-38002012"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God dwells with Christians",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "49002019-49002022"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46003016-46003017"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is required for acceptable worship",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "58010019-58010022"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03022017-03022022"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "14029015-14029031"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23056006-23056007"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "40015007-40015009"
+                  ],
+                  "parallels": [
+                    "41007006"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "23029013"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "45012001"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is needed for effective witness",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "60002009-60002012"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "26020041",
+                    "26036020",
+                    "26039007"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "60003001-60003002"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is needed for godly service",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "58009013-58009014"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "02028041"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "03021006-03021008"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "14035003"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "36003009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "42001074-42001075"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "55002020-55002021"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "56002014"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness leads to a future hope",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holy people will see God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "58012014"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "40005008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "52003013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "53001010"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holy people will receive eternal life",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45006022"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "61003011"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holy people will inherit the kingdom",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "51001012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "27007018",
+                        "27007022",
+                        "27007027"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "49001018"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "66020006"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holy people will judge the world",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [],
+                  "secondaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46006002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "seealsos": []
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Believers' ultimate destiny is to share God's holiness for ever",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "49005025-49005027"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "66021002-66021003"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        7922,
+        8154,
+        8206,
+        8265,
+        8474,
+        8495,
+        8622,
+        9160,
+        9410,
+        9610
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 8272,
+      "title": "holiness, believers' growth in",
+      "comment": "Believers are enabled to grow in holiness on account of the sacrificial death of Jesus Christ, foreshadowed by the OT sacrificial system, and through the sanctifying work of the Holy Spirit.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness begins with God's initiative",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God chooses who and what is to be holy",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "14007016"
+                      ],
+                      "parallels": [
+                        "11009003"
+                      ]
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02020011"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04016007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "14029011"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "38002012"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "God chooses and calls his people to holiness",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05007006"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "49001004"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05014002"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45001007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51003012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60001002",
+                        "60001015"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is conferred by the holy God",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holiness is conferred by the presence of God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029042-02029043"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02003004-02003005",
+                        "02019023"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "14007001-14007002"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holiness is conferred through covenant relationship with God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02019005-02019006"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "05028009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "26037026-26037028"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60002009"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Holiness is conferred by the sovereign action of God",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "52005023"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03020008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "23004003-23004004"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "26036025"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "36001007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44015009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58002011"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness through the OT rituals",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Cleansing from what is unclean",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "04008006-04008007"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02019014"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "04019009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "16012030"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Purification and atonement through sacrifice",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "The OT sacrificial system and holiness laws foreshadow the perfect sacrifice of Jesus Christ that enables believers to grow in holiness through faith.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "04008012-04008014"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029035-02029037"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "03008014-03008015",
+                        "03016005-03016010",
+                        "03016015-03016022",
+                        "03016029-03016030"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Consecration by anointing",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03008010-03008012"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "02029021",
+                        "02040009"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness through Jesus Christ",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Through the sacrifice of Jesus Christ",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "58010010"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "49005025-49005027"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51001022"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "58001003",
+                        "58009013-58009014",
+                        "58009023-58009028",
+                        "58010014",
+                        "58010019-58010022",
+                        "58013012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "62001007",
+                        "62002002",
+                        "62004010"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Through relationship with Jesus Christ",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46001002"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "46001030"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness through the sanctifying work of the Holy Spirit",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "53002013"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "43003005-43003008"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "45015016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "46006011"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "52004007-52004008"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "56003005"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "60001002"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "The human response to holiness",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Repentance",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "62001009"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "15009001-15009007",
+                        "15010001-15010004"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "19051001-19051010"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "44002038"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45006011-45006013"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59004008"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Faith",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "48005005"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "45001017-45001018"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "53002013"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Obedience",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "60001022"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "19119009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "43017017"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45006016-45006019"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        2030,
+        3233,
+        3278,
+        6606,
+        6614,
+        6732,
+        6744,
+        7304,
+        7416,
+        8020,
+        8347,
+        8453
+      ]
+    },
+    {
+      "type": "SecondaryTheme",
+      "number": 8273,
+      "title": "holiness, ethical aspects of",
+      "comment": "Behaviour that reflects the holy character of God himself is to be expressed in both social and personal dimensions of life.",
+      "primaryref": null,
+      "children": [
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness in practice is a reflection of God's own character",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "60001015-60001016"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03011044-03011045",
+                    "03019002",
+                    "03020007"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "49004024"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "62003003"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness demands a different way of life",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Shunning practices that defile",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03018001-03018003"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "49005011-49005012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "54005022"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03018021-03018024",
+                        "03018029-03018030",
+                        "03020001-03020003",
+                        "03020006-03020007",
+                        "03020023-03020026",
+                        "03021007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "47006017-47007001"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "48005019-48005021",
+                        "48005024"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "49005003-49005007"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "51003005-51003010"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Obedience to God's law",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03020007-03020008"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03018004-03018005",
+                        "03019037"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "05006025",
+                        "05028009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "19119009"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "45007012"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "60001022"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is expressed in social behaviour",
+          "precomment": "",
+          "refgroups": [],
+          "comment": "",
+          "children": [
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Care for the disadvantaged",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03019009-03019010"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03019014",
+                        "03019033-03019034"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "54005003-54005004",
+                        "54005008"
+                      ],
+                      "parallels": []
+                    },
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": true,
+                      "bcvreferences": [
+                        "59001027"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "A concern for truth and justice",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03019015-03019016"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03019011-03019013",
+                        "03019035-03019037"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "CommentSubheadingTitle",
+              "title": "Loving one's neighbour",
+              "precomment": "",
+              "refgroups": [
+                {
+                  "type": "ReferenceGroup",
+                  "primaryrefs": [
+                    {
+                      "type": "Reference",
+                      "refclass": "A",
+                      "comment": "",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03019018"
+                      ],
+                      "parallels": []
+                    }
+                  ],
+                  "secondaryrefs": [],
+                  "seealsos": [
+                    {
+                      "type": "Reference",
+                      "refclass": "B",
+                      "comment": "Most of the OT law can be seen as an expression of holiness.",
+                      "continuation": false,
+                      "bcvreferences": [
+                        "03019016-03019017"
+                      ],
+                      "parallels": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is expressed in family and sexual relations",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "52004003-52004007"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "03018005-03018020",
+                    "03018022-03018023",
+                    "03019003",
+                    "03020009"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "49005003"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "46006013-46006015",
+                    "46006018-46006019"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        },
+        {
+          "type": "CommentSubheading",
+          "title": "Holiness is seen in personal character",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "51003012"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "49004023-49004024",
+                    "49004032-49005002"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "55002022"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ],
+          "comment": "",
+          "children": []
+        }
+      ],
+      "see": [],
+      "seealsos": [
+        1065,
+        5016,
+        5448,
+        5540,
+        5769,
+        8203,
+        8240,
+        8277,
+        8337
+      ]
+    }
+  ],
+  "cschildren": [],
+  "themeset": [
+    8267,
+    8268,
+    8269,
+    8270,
+    8271,
+    8272,
+    8273
+  ],
+  "seealsos": []
+}

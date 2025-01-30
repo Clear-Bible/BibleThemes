@@ -1,0 +1,119 @@
+{
+  "type": "PrimaryTheme",
+  "number": 8746,
+  "title": "false Christs",
+  "comment": "Mistaken and deceptive people claiming to be Jesus Christ. Jesus Christ warns his followers to be on their guard against the appearance of such people.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Jesus Christ warns that false Christs will appear",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40024005"
+              ],
+              "parallels": [
+                "41013006",
+                "42021008"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40024023"
+              ],
+              "parallels": [
+                "41013021"
+              ]
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "False Christs will perform signs and miracles in order to deceive",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40024024"
+              ],
+              "parallels": [
+                "41013022"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "False Christs can be recognised because the return of Jesus Christ will be obvious to everyone",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The personal return of the Lord Jesus Christ is not described in terms of an appearance to a select group, but to the whole world. The attempt of anyone to convince others that he is Christ therefore is a sure sign of deception.",
+              "continuation": false,
+              "bcvreferences": [
+                "40024027-40024031"
+              ],
+              "parallels": [
+                "41013024-41013027",
+                "42021025-42021028"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    2565,
+    6145,
+    8747,
+    8749,
+    8767,
+    8776,
+    9115
+  ]
+}

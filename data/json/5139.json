@@ -1,0 +1,85 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5139,
+  "title": "bracelet",
+  "comment": "An expensive ornamental armlet usually worn by women.",
+  "refgroup": {
+    "type": "ReferenceGroup",
+    "primaryrefs": [
+      {
+        "type": "Reference",
+        "refclass": "A",
+        "comment": "",
+        "continuation": false,
+        "bcvreferences": [
+          "26016010-26016013"
+        ],
+        "parallels": []
+      }
+    ],
+    "secondaryrefs": [],
+    "seealsos": [
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": false,
+        "bcvreferences": [
+          "01024022-01024031",
+          "01024047-01024048"
+        ],
+        "parallels": []
+      },
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": true,
+        "bcvreferences": [
+          "04031050"
+        ],
+        "parallels": []
+      },
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": true,
+        "bcvreferences": [
+          "10001010"
+        ],
+        "parallels": []
+      },
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": true,
+        "bcvreferences": [
+          "23003018-23003023"
+        ],
+        "parallels": []
+      },
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": true,
+        "bcvreferences": [
+          "26023042"
+        ],
+        "parallels": []
+      }
+    ]
+  },
+  "children": [],
+  "cschildren": [],
+  "themeset": [],
+  "seealsos": [
+    4342,
+    5126,
+    5778,
+    5915,
+    8808
+  ]
+}

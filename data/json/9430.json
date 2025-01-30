@@ -1,0 +1,65 @@
+{
+  "type": "PrimaryTheme",
+  "number": 9430,
+  "title": "paradise",
+  "comment": "",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "The destination of the righteous after death",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "This Persian term originally described a park or pleasure garden. It was used by the Jews of the Garden of Eden, and of the future blessedness of the saints.",
+              "continuation": false,
+              "bcvreferences": [
+                "42023043"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "47012003-47012004"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "66002007"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    4209,
+    4241,
+    6644,
+    9020,
+    9410
+  ]
+}

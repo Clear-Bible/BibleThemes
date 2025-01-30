@@ -1,0 +1,109 @@
+{
+  "type": "PrimaryTheme",
+  "number": 8843,
+  "title": "unforgivable sin",
+  "comment": "The wilful, outwardly expressed and impenitent slander against the Holy Spirit, when Jesus Christ's mighty works, clearly performed by the power of the Holy Spirit, are attributed to Satan, thus subjecting Christ to public disgrace.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "The unforgivable sin is slandering the Holy Spirit",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40012031-40012032"
+              ],
+              "parallels": [
+                "41003028-41003029"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "42012010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "58010026-58010029"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The unforgivable sin is attributing Jesus Christ's miracles to Satan",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "41003030"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40012024"
+              ],
+              "parallels": [
+                "41003022",
+                "42011015"
+              ]
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    2369,
+    3245,
+    5800,
+    5951,
+    6193,
+    8704,
+    8844
+  ]
+}

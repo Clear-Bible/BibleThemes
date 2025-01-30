@@ -1,0 +1,125 @@
+{
+  "type": "PrimaryTheme",
+  "number": 9530,
+  "title": "Hades",
+  "comment": "A term used in the NT to refer to the place in which departed spirits rest, while waiting for judgment.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Hades is the place where the dead wait for judgment",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "66020013-66020014"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "translated ``depths''",
+              "continuation": false,
+              "bcvreferences": [
+                "40011023"
+              ],
+              "parallels": [
+                "42010015"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "translated ``hell''",
+              "continuation": true,
+              "bcvreferences": [
+                "42016023"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "44002027",
+                "44002031"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "N",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "66006008"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Jesus Christ is Lord of Hades",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40016018"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "66001018"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    9020,
+    9040,
+    9110,
+    9430,
+    9510,
+    9540
+  ]
+}

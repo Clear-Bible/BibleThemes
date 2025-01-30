@@ -1,0 +1,258 @@
+{
+  "type": "SecondaryTheme",
+  "number": 5669,
+  "title": "children, examples of",
+  "comment": "In Scripture specific children are marked out as belonging to the Lord. Mention of others is made in association with miracles or notable situations.",
+  "primaryref": null,
+  "children": [
+    {
+      "type": "CommentSubheading",
+      "title": "The child Jesus Christ",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40001023"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40002011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "42002034",
+                "42002049-42002051"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Other notable children",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Moses",
+              "continuation": false,
+              "bcvreferences": [
+                "02002007-02002008"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Jephthah's daughter",
+              "continuation": true,
+              "bcvreferences": [
+                "07011036"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "09002018",
+                "09002026"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "09016011",
+                "09017033",
+                "09017041-09017042"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "N",
+              "comment": "the young girl who helped Naaman",
+              "continuation": false,
+              "bcvreferences": [
+                "12005002"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "John the Baptist",
+              "continuation": true,
+              "bcvreferences": [
+                "42001080"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Timothy",
+              "continuation": true,
+              "bcvreferences": [
+                "55003015"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Children in the miracles of Jesus Christ",
+      "precomment": "Jairus' daughter:",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40009018"
+              ],
+              "parallels": [
+                "41005022-41005023",
+                "42008041-42008042"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "40009023-40009025"
+              ],
+              "parallels": [
+                "41005038-41005043",
+                "42008049-42008055"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Canaanite woman's daughter",
+              "continuation": true,
+              "bcvreferences": [
+                "40015021-40015028"
+              ],
+              "parallels": [
+                "41007024-41007030"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "boy with epilepsy",
+              "continuation": true,
+              "bcvreferences": [
+                "40017014-40017018"
+              ],
+              "parallels": [
+                "41009017-41009027",
+                "42009038-42009043"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "widow's son at Nain",
+              "continuation": true,
+              "bcvreferences": [
+                "42007011-42007015"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "official's son at Capernaum",
+              "continuation": true,
+              "bcvreferences": [
+                "43004046-43004052"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "N",
+              "comment": "the boy who gave his lunch to help feed the crowd",
+              "continuation": false,
+              "bcvreferences": [
+                "43006009"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "see": [],
+  "seealsos": [
+    2078,
+    2515,
+    2520,
+    5098,
+    5101,
+    5652,
+    5661,
+    5674,
+    5688,
+    5737,
+    5738,
+    6608
+  ]
+}

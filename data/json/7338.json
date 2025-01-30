@@ -1,0 +1,57 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7338,
+  "title": "cities of refuge",
+  "comment": "Cities set apart at the time of the conquest of Canaan as places of refuge for those who had killed people by accident.",
+  "refgroup": {
+    "type": "ReferenceGroup",
+    "primaryrefs": [],
+    "secondaryrefs": [
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": false,
+        "bcvreferences": [
+          "04035006-04035034"
+        ],
+        "parallels": []
+      },
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": true,
+        "bcvreferences": [
+          "05004041-05004043",
+          "05019001-05019013"
+        ],
+        "parallels": []
+      },
+      {
+        "type": "Reference",
+        "refclass": "B",
+        "comment": "",
+        "continuation": true,
+        "bcvreferences": [
+          "06020002-06020009"
+        ],
+        "parallels": []
+      }
+    ],
+    "seealsos": []
+  },
+  "children": [],
+  "cschildren": [],
+  "themeset": [],
+  "seealsos": [
+    5025,
+    5040,
+    5490,
+    5491,
+    5511,
+    5942,
+    7310,
+    7438
+  ]
+}

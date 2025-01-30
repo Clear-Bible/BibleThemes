@@ -1,0 +1,37 @@
+{
+  "type": "SecondaryTheme",
+  "number": 7356,
+  "title": "Feast of Dedication",
+  "comment": "This feast began on 25th Kislev (November/December) and lasted seven days. It celebrated the cleansing of the temple and altar by Judas Maccabeus after they had been defiled by Antiochus Epiphanes.",
+  "primaryref": null,
+  "children": [
+    {
+      "type": "CommentSubheading",
+      "title": "Jesus Christ was challenged to declare his messiahship at the Feast of Dedication",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "43010022-43010024"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "see": [],
+  "seealsos": []
+}

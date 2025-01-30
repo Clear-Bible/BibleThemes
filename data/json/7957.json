@@ -1,0 +1,465 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7957,
+  "title": "sacraments",
+  "comment": "The sacraments of baptism and the Lord's Supper were instituted by Jesus Christ as signs and seals of the covenant.  They explain the basis of this covenant and apply its benefits to believers.  They replace circumcision and the Passover which were the sacraments of the old covenant.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "The sacraments as signs of the new covenant",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Baptism",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "Baptism is one sign of being a disciple of Jesus Christ.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40028019"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44002038",
+                    "44002041"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Lord's Supper",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "The new covenant was sealed by the blood of Jesus Christ.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "46011023-46011025"
+                  ],
+                  "parallels": [
+                    "40026026-40026028",
+                    "41014022-41014024",
+                    "42022017-42022020"
+                  ]
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The sacraments as a participation in the body of Christ",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Baptism",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "In the NT baptism immediately follows conversion and testifies to the individual's union with Christ.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "48003027"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45006003"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Lord's Supper",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "The ``body of Christ'' is a term which goes beyond Jesus Christ to the church. Those who partake of the bread in this way are declaring their membership of the church.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "46010016-46010017"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40026026"
+                  ],
+                  "parallels": [
+                    "41014022",
+                    "42022019",
+                    "46011024"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Jesus Christ likens himself to bread as he is the source of spiritual life and nourishment",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "43006032-43006035",
+                    "43006048"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "The believer who eats the bread of the Lord's Supper is renewing his or her dependence on Jesus Christ for spiritual life.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "43006050-43006058"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The sacraments as a participation in the death of Christ",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Baptism",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "Through baptism individuals declare that they have applied to themselves the death of Jesus Christ which atones for sin.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "45006003-45006004"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Baptism does not accomplish the cleansing from sin but it is the outward sign that this has taken place by faith",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44002038",
+                    "44022016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "45006005-45006007"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "51002012"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "56003005"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "60003021"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Lord's Supper",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "In taking the emblems of Jesus Christ's broken body and shed blood individuals perpetually apply the merits of Christ's death (i.e., forgiveness of sins) to themselves.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "46011026"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "40026027-40026028"
+                  ],
+                  "parallels": [
+                    "41014023-41014024",
+                    "42022020",
+                    "46011025"
+                  ]
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "43006053-43006056"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "46010016"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The sacraments of the old covenant",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Circumcision",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "Circumcision was the initiation rite under the old covenant.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44007008"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "01017010-01017014"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Circumcision was never meant as merely an outward rite. To be effective it required a right attitude of heart",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "45002028-45002029"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Circumcision was the seal of Abraham's righteousness imputed to him by his faith",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "45004010-45004011"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "Circumcision has now been superseded by baptism for the Christian as the rite of initiation.",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "51002011-51002012"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "The Passover",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "The Passover meal was instituted as a regular commemoration of Israel's redemption from slavery in Egypt.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "02012025-02012027"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": [
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "The death of Jesus Christ is closely associated with the Passover by its timing and meaning. The Lord's Supper has superseded the Passover as the corporate meal commemorating the act of redemption",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "42022015-42022016"
+                  ],
+                  "parallels": []
+                },
+                {
+                  "type": "Reference",
+                  "refclass": "B",
+                  "comment": "",
+                  "continuation": true,
+                  "bcvreferences": [
+                    "46005007"
+                  ],
+                  "parallels": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    1345,
+    2315,
+    2410,
+    4418,
+    6754,
+    7028,
+    7110,
+    7334,
+    7404,
+    7406,
+    7903,
+    7933
+  ]
+}

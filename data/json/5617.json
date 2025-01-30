@@ -1,0 +1,209 @@
+{
+  "type": "SecondaryTheme",
+  "number": 5617,
+  "title": "weights and measures, liquid",
+  "comment": "These terms derive originally from the containers used, which held a fixed amount. There is some uncertainty about the capacity of the bath, and therefore of other liquid measures dependent upon it. Measures are given in ascending order, with their approximate imperial and metric equivalents.",
+  "primaryref": null,
+  "children": [
+    {
+      "type": "CommentSubheading",
+      "title": "Log (1/72 bath): about 1/2 pint (about 0.3 litre)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "This is the only mention in Scripture of the log, as a measure of oil used in the ritual for cleansing infectious skin diseases.",
+              "continuation": false,
+              "bcvreferences": [
+                "03014010"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "03014012-03014018",
+                "03014021-03014022"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Hin (1/6 bath): about 7 pints (about 4 litres)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The hin was used as a measure of oil, wine and water.",
+              "continuation": false,
+              "bcvreferences": [
+                "02029038-02029041"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "03023012-03023013"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "04015004-04015010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26004011",
+                "26046005-26046007"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Bath (1 ephah): about 5 gallons (about 22 litres)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The bath was the equivalent liquid measure of the ephah, and was used to measure oil, wine and water.",
+              "continuation": false,
+              "bcvreferences": [
+                "26045011"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "11005011",
+                "11007038"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "14002010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "15007021-15007022"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "23005010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26045014"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The measure translated as ``eight hundred gallons'' is ``one hundred batous'' in the original (``batos'' being the Greek form of the Hebrew ``bath'')",
+              "continuation": true,
+              "bcvreferences": [
+                "42016006"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The measure translated as ``twenty to thirty gallons'' is ``two to three metretas'' in the original, a Greek measure roughly equivalent to the bath.",
+              "continuation": true,
+              "bcvreferences": [
+                "43002006"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "see": [],
+  "seealsos": [
+    4293,
+    4488,
+    4544
+  ]
+}

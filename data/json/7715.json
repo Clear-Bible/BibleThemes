@@ -1,0 +1,194 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7715,
+  "title": "deacons",
+  "comment": "Those who ``serve'' in the Christian community, assisting the elders or overseers (bishops). The Greek word which the NIV translates four times as ``deacon'' occurs a further 25 times in the NT, where it is translated as ``servant''. It seems that all Christians have a general servant role, whereas some (deacons) are called to a specific office of service within the church.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "The Seven: assistants to the apostles",
+      "precomment": "",
+      "refgroups": [],
+      "comment": "",
+      "children": [
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Why they were needed",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "The verb ``wait'' means ``to serve''.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44006001-44006004"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Their qualifications and selection",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44006003"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ]
+        },
+        {
+          "type": "CommentSubheadingTitle",
+          "title": "Their names and appointment",
+          "precomment": "",
+          "refgroups": [
+            {
+              "type": "ReferenceGroup",
+              "primaryrefs": [
+                {
+                  "type": "Reference",
+                  "refclass": "A",
+                  "comment": "Although the Seven are not actually called ``deacons'', they were probably the earliest example of Christians carrying out the tasks which came to be linked with deacons.",
+                  "continuation": false,
+                  "bcvreferences": [
+                    "44006005-44006006"
+                  ],
+                  "parallels": []
+                }
+              ],
+              "secondaryrefs": [],
+              "seealsos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Deacons were assistants to overseers in Philippi",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "All Christians are ``saints'' (that is, set apart for God), but overseers and deacons have specific roles assigned to them.",
+              "continuation": false,
+              "bcvreferences": [
+                "50001001"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Qualifications for men and women deacons",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "There is no NT description of the precise role of deacons (although Ac 6:1-4 may imply a certain role). These qualifications would be appropriate for people responsible for financial management, administration, and social service, such as that offered to widows",
+              "continuation": false,
+              "bcvreferences": [
+                "54003008-54003013"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The women may be deacons' wives (NIV text), or deaconesses (NIV footnote).",
+              "continuation": true,
+              "bcvreferences": [
+                "54003011"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Phoebe, a deaconess",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "NIV footnote.",
+              "continuation": false,
+              "bcvreferences": [
+                "45016001"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    2327,
+    5520,
+    7026,
+    7372,
+    7706,
+    7718,
+    7734,
+    7748,
+    7784,
+    7939,
+    8342,
+    8492
+  ]
+}

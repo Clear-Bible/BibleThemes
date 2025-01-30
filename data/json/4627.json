@@ -1,0 +1,167 @@
+{
+  "type": "PrimaryTheme",
+  "number": 4627,
+  "title": "creatures",
+  "comment": "Generally, living beings within God's creation, especially the exotic animals seen in visions, which often have a deep symbolic significance.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Creatures representing angelic beings who worship God",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "26001005-26001006"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The strange creatures of Ezekiel and Revelation seem to stand for the fulness and variety of God's creation.",
+              "continuation": true,
+              "bcvreferences": [
+                "66004006-66004008"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The creatures are here identified as cherubim",
+              "continuation": false,
+              "bcvreferences": [
+                "26001007-26001025",
+                "26003012-26003013",
+                "26010015-26010022"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "66004009-66004011",
+                "66005006-66005014",
+                "66006001-66006003",
+                "66006005-66006006",
+                "66007011",
+                "66014003",
+                "66015007",
+                "66019004"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Creatures representing kings or kingdoms",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The ``beasts'' here are unnatural, and represent the hostility of human empires to the rule of God. The horns represent individual kings within an imperial dynasty.",
+              "continuation": false,
+              "bcvreferences": [
+                "27007017",
+                "27008020-27008021"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Creatures representing Satan",
+      "precomment": "The beast here represents Satan, with the horns representing royal authority at a time of Roman persecution of the church:",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "66012003-66012004",
+                "66012007-66012009",
+                "66013001"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "N",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "27007002-27007008",
+                "27007019-27007026",
+                "27008003-27008012"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "66011007",
+                "66013002-66013008",
+                "66013011-66013018",
+                "66017003",
+                "66017007-66017013"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    1469,
+    1670,
+    4110,
+    4150,
+    4603,
+    4609,
+    9105
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "PrimaryTheme",
+  "number": 1630,
+  "title": "Book of the Covenant",
+  "comment": "The customary designation given to the code of law in Ex 20:22-23:33, but it may also have included the Ten Commandments (Ex 20:2-17).",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Moses reads the Book of the Covenant to the Israelites",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "02024007"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The Book of the Covenant is the oldest, extant codification of Israelite law, where human values are constantly elevated over material ones. It can be argued that each section of the code is a further exposition of one of the Ten Commandments, giving specific case laws.",
+              "continuation": false,
+              "bcvreferences": [
+                "02020022-02023033"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Josiah reads the rediscovered Book of the Covenant to the people of Judah",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "12023002-12023003"
+              ],
+              "parallels": [
+                "14034030-14034031"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "This reference to the Book of the Covenant applies either to all or part of the book of Deuteronomy, or to the entire Mosaic Law.",
+              "continuation": false,
+              "bcvreferences": [
+                "12023021"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    1345,
+    1640,
+    5375,
+    5377,
+    8466
+  ]
+}

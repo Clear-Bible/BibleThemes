@@ -1,0 +1,86 @@
+{
+  "type": "PrimaryTheme",
+  "number": 4484,
+  "title": "mustard seed",
+  "comment": "A very small seed which grew rapidly into a substantial plant. It was used in parables by Jesus Christ to encourage the faith of the individual and to illustrate the growth of the kingdom of God.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "The mustard seed and the faith of the individual",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "42017005-42017006"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40017014-40017020"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "The mustard seed and the kingdom of God",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40013031-40013032"
+              ],
+              "parallels": [
+                "41004030-41004032",
+                "42013018-42013019"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    2375,
+    4402,
+    4506,
+    4528,
+    5438,
+    8020,
+    8443
+  ]
+}

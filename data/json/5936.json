@@ -1,0 +1,176 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5936,
+  "title": "riots",
+  "comment": "The hostile reactions of crowds who take the law into their own hands, frequently in opposition to a messenger of God.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Riotous responses to unpopular actions or teaching",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "the hostility of the men of Sodom against Lot",
+              "continuation": false,
+              "bcvreferences": [
+                "01019004-01019011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The men of Ophrah call for the death of Gideon",
+              "continuation": true,
+              "bcvreferences": [
+                "07006030-07006031"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The people react to Jeremiah's message",
+              "continuation": true,
+              "bcvreferences": [
+                "24026008-24026011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The people of Nazareth expel Jesus Christ",
+              "continuation": true,
+              "bcvreferences": [
+                "42004028-42004030"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "the anger of the Ephesians over Paul",
+              "continuation": true,
+              "bcvreferences": [
+                "44019023-44019034"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "47006005"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Riots stirred up intentionally",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40027020-40027024"
+              ],
+              "parallels": [
+                "41015006-41015015"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "44006008-44006014",
+                "44017005-44017009",
+                "44021027-44021035"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Riotous behaviour avoided or quelled",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "40026003-40026005"
+              ],
+              "parallels": [
+                "41014001-41014002"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "44019035-44019041",
+                "44024005-44024012"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    5108,
+    5279,
+    5461,
+    5817,
+    5931,
+    5975,
+    6221,
+    8785
+  ]
+}

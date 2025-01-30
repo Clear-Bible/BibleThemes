@@ -1,0 +1,378 @@
+{
+  "type": "SecondaryTheme",
+  "number": 5618,
+  "title": "weights and measures, linear",
+  "comment": "These terms were based on natural units of measurement that could be easily applied. Measures are given in ascending order, with their approximate imperial and metric equivalents.",
+  "primaryref": null,
+  "children": [
+    {
+      "type": "CommentSubheading",
+      "title": "Finger (1/4 handbreadth): about 3/4 inch (about 1.85 centimetres)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The finger was 1/4 handbreadth and was the smallest subdivision of the cubit. This is its only mention in Scripture.",
+              "continuation": false,
+              "bcvreferences": [
+                "24052021"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Handbreadth (4 fingers): about 3 inches (about 8 centimetres)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The handbreadth was the width of the hand at the base of the four fingers.",
+              "continuation": false,
+              "bcvreferences": [
+                "02025025"
+              ],
+              "parallels": [
+                "02037012"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "11007026"
+              ],
+              "parallels": [
+                "14004005"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The handbreadth is here used figuratively of the shortness of human life",
+              "continuation": true,
+              "bcvreferences": [
+                "19039005"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26040005"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Span (half a cubit): about 9 inches (about 23 centimetres)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The span was the width of the outstretched hand from thumb to little finger.",
+              "continuation": false,
+              "bcvreferences": [
+                "02028016"
+              ],
+              "parallels": [
+                "02039009"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Goliath's height is given in the Hebrew as ``six cubits and a span''",
+              "continuation": false,
+              "bcvreferences": [
+                "09017004"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The span is here used figuratively of the shortness of human life",
+              "continuation": true,
+              "bcvreferences": [
+                "19090010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26043013"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Cubit (2 spans): about 18 inches (about 0.5 metre)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The cubit was the distance from the fingertip to the elbow, and was used to measure height, size, depth and distance.",
+              "continuation": false,
+              "bcvreferences": [
+                "02025010"
+              ],
+              "parallels": [
+                "02037001"
+              ]
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The Hebrew describes the depth of the water as ``fifteen cubits''",
+              "continuation": false,
+              "bcvreferences": [
+                "01007020"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "02027009-02027018"
+              ],
+              "parallels": [
+                "02038009-02038015"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "11006002-11006003"
+              ],
+              "parallels": [
+                "14003003-14003004"
+              ]
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The Hebrew describes the man as ``five cubits tall''",
+              "continuation": true,
+              "bcvreferences": [
+                "13011023"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "26040005",
+                "26045001-26045006",
+                "26047003-26047005"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The Greek text describes the distance as ``about two hundred cubits''",
+              "continuation": true,
+              "bcvreferences": [
+                "43021008"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "66021017"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Reed (6 cubits): about 10 feet (about 3 metres)",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "Originally a measuring instrument, the reed became a recognised measure of six cubits (the rod).",
+              "continuation": false,
+              "bcvreferences": [
+                "26041008"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "26040003",
+                "26040005-26040007"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": true,
+              "bcvreferences": [
+                "66011001",
+                "66021015-66021016"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Mile",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The Greek word for ``mile'' here is ``milion'', a transliteration of the Roman measurement ``mille passuum'', ``a thousand paces''.",
+              "continuation": false,
+              "bcvreferences": [
+                "40005041"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The measurement in the Greek is ``sixty stadia''. Eight stadia were about one mile (about 1480 metres)",
+              "continuation": false,
+              "bcvreferences": [
+                "42024013"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The measurement in the Greek is ``twenty-five or thirty stadia''",
+              "continuation": true,
+              "bcvreferences": [
+                "43006019"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "The measurement in the Greek is ``fifteen stadia''.",
+              "continuation": true,
+              "bcvreferences": [
+                "43011018"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "see": [],
+  "seealsos": [
+    4803,
+    4813,
+    4830,
+    4832,
+    4841,
+    4847,
+    4903,
+    5152,
+    7254
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "type": "PrimaryTheme",
+  "number": 5463,
+  "title": "proclamations",
+  "comment": "Edicts or public declarations issued by the civil or religious authorities.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Examples of proclamations in biblical times",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Pharaoh's edict that all Hebrew boys were to be drowned",
+              "continuation": false,
+              "bcvreferences": [
+                "02001015-02001022"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Aaron's proclamation of a festival to the LORD",
+              "continuation": true,
+              "bcvreferences": [
+                "02032005"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Jezebel's proclamation to ensnare Naboth",
+              "continuation": true,
+              "bcvreferences": [
+                "11021009-11021010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Jehu's proclamation of an assembly in honour of Baal",
+              "continuation": true,
+              "bcvreferences": [
+                "12010020"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Joash's proclamation of a tax for the LORD",
+              "continuation": true,
+              "bcvreferences": [
+                "14024009"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Hezekiah's invitation to celebrate the Passover",
+              "continuation": true,
+              "bcvreferences": [
+                "14030001-14030010"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "15001001",
+                "15005013",
+                "15006003",
+                "15007013"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "N",
+              "comment": "the Levites' proclamation of festival arrangements",
+              "continuation": false,
+              "bcvreferences": [
+                "16008014-16008015"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "17001020",
+                "17002008",
+                "17003014",
+                "17004003",
+                "17008011"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "27006007",
+                "27006015"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "N",
+              "comment": "the king of Nineveh's proclamation of a fast of repentance",
+              "continuation": false,
+              "bcvreferences": [
+                "32003007"
+              ],
+              "parallels": []
+            },
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "Caesar Augustus' proclamation of a census",
+              "continuation": true,
+              "bcvreferences": [
+                "42002001"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    2427,
+    5219,
+    5335,
+    7354,
+    7754,
+    8424,
+    8489
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "type": "PrimaryTheme",
+  "number": 7918,
+  "title": "excommunication",
+  "comment": "The last but reversible step in church discipline, resulting in exclusion from the fellowship of believers. The grounds that Scripture suggests for excommunication include public sin and immorality.",
+  "refgroup": null,
+  "children": [],
+  "cschildren": [
+    {
+      "type": "CommentSubheading",
+      "title": "Jesus Christ authorises the church to excommunicate a sinning brother",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "The binding of sinners is thought to refer to their exclusion from God's people, and loosing, to their restoration after repentance (compare Mt 16:19).",
+              "continuation": false,
+              "bcvreferences": [
+                "40018015-40018018"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Paul exhorts the Corinthian church to excommunicate an immoral brother",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "A",
+              "comment": "By ``hand this man over to Satan'' (see also 1Ti 1:20) Paul means to expel him, by putting him out into the devil's territory, in the hope that being officially ostracised, he might repent and forsake his wicked way. Such discipline was necessary not only for the reclaiming of the sinner but also for the safety and purity of the church (verse 6).",
+              "continuation": false,
+              "bcvreferences": [
+                "46005001-46005006"
+              ],
+              "parallels": []
+            }
+          ],
+          "secondaryrefs": [],
+          "seealsos": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "",
+              "continuation": false,
+              "bcvreferences": [
+                "46005011-46005013"
+              ],
+              "parallels": []
+            }
+          ]
+        }
+      ],
+      "comment": "",
+      "children": []
+    },
+    {
+      "type": "CommentSubheading",
+      "title": "Excommunicated offenders who repent are to be lovingly restored to fellowship",
+      "precomment": "",
+      "refgroups": [
+        {
+          "type": "ReferenceGroup",
+          "primaryrefs": [],
+          "secondaryrefs": [
+            {
+              "type": "Reference",
+              "refclass": "B",
+              "comment": "This passage probably refers to the offender mentioned in 1Corinthians chapter 5.",
+              "continuation": false,
+              "bcvreferences": [
+                "47002005-47002011"
+              ],
+              "parallels": []
+            }
+          ],
+          "seealsos": []
+        }
+      ],
+      "comment": "",
+      "children": []
+    }
+  ],
+  "themeset": [],
+  "seealsos": [
+    6040,
+    6112,
+    7020,
+    8230,
+    8341
+  ]
+}
