@@ -1,0 +1,46 @@
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Emacs lisp
+*.elc
+
+# Packaging
+.cask
+dist/
+
+# Backup files
+*~
+*#
+
+# Undo-tree save-files
+*.~undo-tree
+
+# MacOS
+.DS_Store
+
+# project-specific
+# ignore luigi logging
+.ipynb_checkpoints/
+.pytest_cache/
+# plotly generates these
+notebooks/iframe_figures
+
+# ignore .zip files
+*.zip
+
+# Ignore PAB-NLP files: they're downloaded
+pabnlp/
+data/bsb/downloads/bsb_tables.tsv
+data/bsb/downloads/bsb_tables-clean.tsv
+data/bsb/downloads/bsb_tables_simplified.tsv
+data/bsb/downloads/bsb_tables_Hebrew_sort_order.tsv
+# legacy files, on the way out
+data/sources/legacy
+data/targets/eng/legacy
+# these are being revised, but are left locally for now as a guide
+docs-orig
+/.idea/copilot
+/.idea/copilot
+.env
