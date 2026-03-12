@@ -26,10 +26,26 @@ abbreviations. They also include link syntax like
 [MAT 11:27](bibleref:40011027)
 ``` 
 
-While this indicates that this reference could (and arguably should)
-be linked to a resource where one could _read_ the text, this itself
-is not a valid URI that can be resolved. Developers are encouraged to
-replace this with their own link to a readable text like
+This uses a BCV format for the reference:
+
+```
+B B C C C V V V 
+│ │ └─┬─┘ └─┬─┘ 
+│ │   │     └──────────── Verse (3 digits)
+│ │   └────────────────── Chapter (3 digits)
+└─┴────────────────────── Book (2 digits, standard Protestant canon)
+```
+
+So "40011027" represents
+* Book 40 = Matthew
+* 011 = chapter 11
+* 027 = verse 27
+
+While the `bibleref` prefix indicates that this reference could (and
+arguably should) be linked to a resource where one could _read_ the
+text, this itself is not a valid URI that can be resolved. Developers
+are encouraged to replace this with their own link to a readable text
+like
 
 ```
 [MAT 11:27](https://www.bible.com/bible/111/MAT.11.27.NIV)
