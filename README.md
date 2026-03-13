@@ -4,9 +4,9 @@ This is a digital version of the Dictionary of Bible Themes by Martin
 H. Manser.
 
 Copyright 1999 by Martin Manser. Biblica has been granted a license to
-make this content available for non-commercial purposes under a
-CC-BY-SA-NC license, [CC BY-SA-NC
-license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+make this content available for purposes under a CC BY-SA 4.0
+International license, [Attribution-ShareAlike 4.0 International -
+Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Other contributors:
 * Alister E. McGrath, General Editor
